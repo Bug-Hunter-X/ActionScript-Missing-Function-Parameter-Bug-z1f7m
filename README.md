@@ -1,0 +1,1 @@
+This repository demonstrates a common error in ActionScript: calling a function with fewer parameters than it expects.  The `bug.as` file shows the problematic code.  The `bugSolution.as` file provides a corrected version.
